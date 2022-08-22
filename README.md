@@ -6,8 +6,11 @@
 
 
 기본적으로 깃 이슈에 정리하며,
+
 특정 카테고리의 내용이 쌓이거나 감명깊게 읽은 논문이라면? -> 정보가공 이후 블로그에 업로드하는 방식.
 
+
 (이건 지금 블로그 잡글들을 가공한 이후에 가능할 듯)
+
 
 블로그: [https://ambitious-posong.tistory.com/](https://ambitious-posong.tistory.com/)
