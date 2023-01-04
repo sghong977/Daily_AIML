@@ -15,9 +15,6 @@
 (이건 지금 블로그 잡글들을 가공한 이후에 가능할 듯)
 
 
-블로그: [https://ambitious-posong.tistory.com/](https://ambitious-posong.tistory.com/)
-
-
 ### Label
 - **Type**: Survey&Idea | Code&Toolbox | Paper Review
 - **Topic**: Object Detection, Depth Estimation, Segmentation...
